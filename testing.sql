@@ -1,6 +1,9 @@
 INSERT INTO  depts (
 first_name,
-department
+department,
+asdf
+masdfa,
+
 )
 VALUES
 ('Vinton','A'),
